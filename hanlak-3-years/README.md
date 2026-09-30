@@ -2,6 +2,8 @@
 
 `hanlak_xi_3_years.mp4` is a 1080×1080 paper cut-out stop-motion video, about 53 seconds long, with paper foley sounds. It's animated at 12 fps and delivered at 24 fps. `poster.png` is the last frame.
 
+`hanlak_xi_3_years_whatsapp.mp4` is a smaller 720×720 copy for sharing on WhatsApp.
+
 Scenes:
 1. A cricket ball rolls in and the HL monogram assembles piece by piece. Then "HANLAK XI" appears with "Est. 18 Sep 2023 · Hyderabad".
 2. A calendar flips from 18 Sep 2023 to 2026, and "3 YEARS" drops in.
