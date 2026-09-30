@@ -23,3 +23,9 @@ python3 make_video.py --preview    # contact sheet of key frames (preview.png)
 ```
 
 To change text or stats, edit `build()` in `make_video.py`. For example, the `moments` list sets the big-moment cards and `parts` sets the partnerships.
+
+## Fast reel (9:16)
+
+`hanlak_xi_3_years_reel.mp4` is a 1080×1920 vertical reel for Instagram Reels, Stories and WhatsApp Status. It's about 28 seconds long, cut to a 128 BPM synthesized beat, with kinetic typography: the logo slams in, then "3 YEARS STRONG", the record, partnerships, eight rapid-fire big moments and an outro.
+
+Top-5 run scorers, wicket takers and catches: fill `LEADERS` in `make_reel.py` with `(name, value, small print)` rows and re-run `python3 make_reel.py`. Each filled board adds about 4.7 seconds; all three together bring it to about 42 seconds. A board with no rows is left out.
