@@ -1,0 +1,5 @@
+numpy>=1.26
+PyYAML>=6
+anthropic>=1.11      # phase 3 (LLM judge)
+sentence-transformers>=3  # phase 2 default embedder; skip and use --embedder hashing to avoid torch
+pytest>=8
